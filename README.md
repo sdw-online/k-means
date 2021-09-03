@@ -1,7 +1,10 @@
-# py
-A repo for Python files 
+# K-Means
+A repo for K-Means projects  
 
-This sentence has been added to the README.md file  
+You can upload and update your files as you feel fit.
+
+
+Watch out for some awesome projects coming soon (site under construction)!
 
 
 * Add a few Python scripts and notebooks to your repo 
