@@ -92,7 +92,7 @@ reduced.columns = ['x', 'y']
 
 
 """
-STAGE 3: K-MEANS
+STAGE 3: DATA CLUSTERING 
 
 """
 
