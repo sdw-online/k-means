@@ -1,4 +1,8 @@
+# Author: Stephen David-Williams
+# Purpose: To highlight hidden groups within the football teams for the 2019-2020 season using the K-Means clustering algorithm
+
 """
+
 STAGE 1: DATA CLEANING
 
 """
@@ -63,6 +67,7 @@ data
 
 
 """
+
 STAGE 2: DATA NORMALIZATION
 
 """
@@ -92,6 +97,7 @@ reduced.columns = ['x', 'y']
 
 
 """
+
 STAGE 3: DATA CLUSTERING 
 
 """
